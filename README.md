@@ -1,1 +1,1 @@
-This is my first project using Git
+Feature B update
